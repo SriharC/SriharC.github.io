@@ -94,7 +94,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media.licdn.com/dms/image/v2/D5603AQGgAstOgaosTQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1675489013854?e=1733961600&v=beta&t=SojBI1Xa0gMXYpxZXuYHmcBLUHvx_FmFU1HrWxD3xHs
+avatar: https://s3.amazonaws.com/handshake.production/app/public/assets/students/27566402/profile/data.?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA2HSNSGACXF6KKT2H%2F20250125%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250125T053741Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=5af13b337dc0abfcfecd65b6535670aea4bf23728413aab2adfdb4c4a4b3f459
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
